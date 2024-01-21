@@ -1,0 +1,12 @@
+{
+  "name": "perspective-funnels",
+  "version": "1.0.0",
+  "description": "Well-designed and implemented landing page of \"Perspective Funnels\". For practice purpose only.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nurken Kidirmaganbetov",
+  "license": "ISC"
+}
